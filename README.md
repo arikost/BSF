@@ -35,12 +35,15 @@ https://nodejs.org/en/blog/release/v14.15.1/<br>
   ![image](https://user-images.githubusercontent.com/48179479/184368791-cc92dab6-c702-454f-9115-0579ddaef56c.png)
 
 
-frame's reading will run in interval of 15 frames, each frame will recognize face's using Face_Recognition libray, and .jpg file of the face's will be saved in the "People"       folder next to the script
-  ![image](https://user-images.githubusercontent.com/48179479/184368948-4f15617c-72e9-4f02-b849-47b9179609f0.png)
+frame's reading will run in interval of 15 frames, each frame will recognize face's using Face_Recognition libray, and .jpg file of the face's will be saved in the "People"   <br>    
 
+
+  ![image](https://user-images.githubusercontent.com/48179479/184385255-99dac964-083f-472c-864f-16f1d8232c80.png)
+<br>   
+folder next to the script<br>   
 ![2022-02-27_19-08-55_2](https://user-images.githubusercontent.com/48179479/155892447-d5646dc6-0dca-40fc-9c59-5c275f70c1bf.gif)
 
-  ![image](https://user-images.githubusercontent.com/48179479/155890628-8699e230-56e3-471b-a6c4-0dc7c63a8074.png)
+![image](https://user-images.githubusercontent.com/48179479/184385401-154cb3a7-5742-4d19-ac31-3d1b5a70c894.png)
 
  image will appear with the recognized face's from the video, select which face's you would like to be blured sepreated with spaces
   
@@ -56,7 +59,8 @@ frame's reading will run in interval of 15 frames, each frame will recognize fac
 
   5.the BlurFaces method will run blur the selected people face's and will add the link to download the result at the end
   
-   ![image](https://user-images.githubusercontent.com/48179479/155890785-aeca2b63-6150-43f3-a833-2aaab80aff6b.png)
+  ![image](https://user-images.githubusercontent.com/48179479/184385850-0784c25e-d159-4883-a4d7-efc68f5f0d02.png)
+
       
     ![image](https://user-images.githubusercontent.com/48179479/184374790-7747d2c5-4921-4134-90c5-a2217e6d5ae9.png)
   
