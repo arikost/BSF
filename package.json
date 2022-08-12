@@ -1,0 +1,16 @@
+{
+  "name": "BSF",
+  "version": "1.0.0",
+  "description": "Blur Selected Face's - BSF",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ron Vaknin;Michael Ifargan,Arik Ostrovsky",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "multer": "^1.4.4",
+    "socket.io": "^4.5.1"
+  }
+}
