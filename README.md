@@ -3,6 +3,23 @@ Bluer Selected Face's - Web App
 
 Recognize face's and select which face you want to blur in a video file
 
+# Dependencies
+we used python version 3.7.0<br>
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:59:51) [MSC v.1914 64 bit (AMD64)] on win32<br>
+https://www.python.org/downloads/release/python-370/<br>
+
+for python install those libraries:<br>
+
+<code>pip install face-recognition</code><br>
+<code>pip install numpy</code><br>
+<code>pip install opencv-python</code><br>
+<code>pip install pytest-shutil</code><br>
+
+<br>
+use nodejs version 14.15.1<br>
+https://nodejs.org/en/blog/release/v14.15.1/<br>
+
+
 Operation:
 
   Starting the backend:
