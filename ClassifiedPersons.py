@@ -20,7 +20,7 @@ class ClassifiedPersons:
         self.people_dir = os.getcwd() + "/people"
         if not os.path.exists(self.people_dir):
             os.mkdir(self.people_dir)
-        for srcfile in os.listdir('People'):
+        for srcfile in os.listdir('people'):
             if srcfile.endswith(".jpg"):
                 comparefileLocation = self.people_dir + '/' + srcfile
                 try:
