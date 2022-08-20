@@ -14,7 +14,8 @@
   background: linear-gradient(to left, #262727, #1191c8, #262727);
   height:100%;
   width:100%;
- 
+ align-items: center;
+ margin-right: 2000px;
   }
   div h1{
     font-size: 70px;
